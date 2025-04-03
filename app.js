@@ -303,3 +303,5 @@ console.log('Exercise 7 result:', yummy);
 console.log('Exercise 8 result:', soyIdx);  
 console.log('Exercise 9 result:', allFoods); 
 console.log('Exercise 10 result:', hasSoup);
+
+/* Gonna keep working on this in the morning before class and through the weekend! :) */

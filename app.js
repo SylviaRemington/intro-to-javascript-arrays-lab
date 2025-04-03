@@ -1,3 +1,5 @@
+//FROM FEBRUARY 24TH, 2025 SOFTWARE ENGINEERING FT MATT HUNTINGTON CLASS --FIRST TIME CREATING ARRAYS -- non completed project for that class
+
 /*EXERCISE ONE
 Exercise 1: Define an empty array
 

@@ -1,5 +1,7 @@
 //FROM FEBRUARY 24TH, 2025 SOFTWARE ENGINEERING FT MATT HUNTINGTON CLASS --FIRST TIME CREATING ARRAYS -- non completed project for that class
 //from first week at GA in Matt Huntington's Class - ARRAYS LAB Exercises 1-10 completed
+//Re-reviewing this section 4/25/25
+
 /*EXERCISE ONE
 Exercise 1: Define an empty array
 
